@@ -15,23 +15,49 @@ class Ali(programmers):
 ```
 
 <div align="center">
-   <br/>
-   <h3>:hammer_and_wrench: Languages and Tools</h3>
-   <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <!--- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; -->
-  <!--- <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
+    <br/>
+    <h3>:hammer_and_wrench: Languages and Tools</h3>
+    <br/>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+    </a>&nbsp;
+    <!--- 
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
+    </a>&nbsp;
+    -->
+    <!--- 
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>
+    </a>&nbsp;
+    -->
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>
+    </a>&nbsp;
   
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL lite" alt="SQL lite" width="40" height="40"/>&nbsp;
-  <img src="https://www.django-rest-framework.org/img/logo.png" title="DRF" alt="DRF" width="80" height="40"/>&nbsp;
-  
-  
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL lite" alt="SQL lite" width="40" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.django-rest-framework.org/img/logo.png" title="DRF" alt="DRF" width="80" height="40"/>
+    </a>&nbsp;
+    <a href="https://docs.pyrogram.org/" target="_blank" rel="noreferrer">
+        <img src="https://camo.githubusercontent.com/23bd8586f8d0549172b03886618d5337c7c3f655220d81d35ce837b62639419d/68747470733a2f2f646f63732e7079726f6772616d2e6f72672f5f7374617469632f7079726f6772616d2e706e67" title="Telegram MTProto API Framework for Python" alt="Telegram MTProto API Framework for Python" width="40" height="40"/>
+    </a>&nbsp;
+
 </div>
 
 <div align="center">
