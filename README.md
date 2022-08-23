@@ -29,6 +29,7 @@ class Ali(programmers):
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL lite" alt="SQL lite" width="40" height="40"/>&nbsp;
+  <img src="https://www.django-rest-framework.org/img/logo.png" title="DRF" alt="DRF" width="80" height="40"/>&nbsp;
   
   
 </div>
