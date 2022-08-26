@@ -29,15 +29,15 @@ class Ali(programmers):
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
     </a>&nbsp;
     -->
-    <!--- 
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>
-    </a>&nbsp;
-    -->
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>
     </a>&nbsp;
-  
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="40" height="40"/>
+    </a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="40" height="40"/>
+    </a>&nbsp;
   <br>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -53,6 +53,9 @@ class Ali(programmers):
     </a>&nbsp;
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://www.django-rest-framework.org/img/logo.png" title="DRF" alt="DRF" width="80" height="40"/>
+    </a>&nbsp;
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>
     </a>&nbsp;
     <a href="https://docs.pyrogram.org/" target="_blank" rel="noreferrer">
         <img src="https://camo.githubusercontent.com/23bd8586f8d0549172b03886618d5337c7c3f655220d81d35ce837b62639419d/68747470733a2f2f646f63732e7079726f6772616d2e6f72672f5f7374617469632f7079726f6772616d2e706e67" title="Telegram MTProto API Framework for Python" alt="Telegram MTProto API Framework for Python" width="40" height="40"/>
