@@ -6,6 +6,7 @@
 ```python
 class Ali(programmers):
     def __init__(self):
+        super().__init__(*args, **kwargs)
         self.first_name = "Seyed Ali"
         self.last_name = "Kamali Pargoo"
         self.age = "20"
