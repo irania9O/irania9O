@@ -58,6 +58,9 @@ class Ali(programmers):
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>
     </a>&nbsp;
+    <a href="https://pygame.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.pygame.org/images/logo_lofi.png" title="Pygame" alt="Pygame" width="40" height="40"/>
+    </a>&nbsp;
     <a href="https://docs.pyrogram.org/" target="_blank" rel="noreferrer">
         <img src="https://camo.githubusercontent.com/23bd8586f8d0549172b03886618d5337c7c3f655220d81d35ce837b62639419d/68747470733a2f2f646f63732e7079726f6772616d2e6f72672f5f7374617469632f7079726f6772616d2e706e67" title="Telegram MTProto API Framework for Python" alt="Telegram MTProto API Framework for Python" width="40" height="40"/>
     </a>&nbsp;
