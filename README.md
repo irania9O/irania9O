@@ -49,6 +49,9 @@ class Ali(programmers):
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>
     </a>&nbsp;
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+    </a>&nbsp;
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL lite" alt="SQL lite" width="40" height="40"/>
     </a>&nbsp;
