@@ -4,12 +4,12 @@
 <br/>
 
 ```python
-class Ali(programmers):
+class Me(programmers):
     def __init__(self):
         super().__init__(*args, **kwargs)
         self.first_name = "Seyed Ali"
         self.last_name = "Kamali Pargoo"
-        self.age = "20"
+        self.age = "21"
        
     def is_student(self):
         return True
