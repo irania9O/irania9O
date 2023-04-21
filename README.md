@@ -55,6 +55,9 @@ class Me(programmers):
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL lite" alt="SQL lite" width="40" height="40"/>
     </a>&nbsp;
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>
+    </a>&nbsp;
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://www.django-rest-framework.org/img/logo.png" title="DRF" alt="DRF" width="80" height="40"/>
     </a>&nbsp;
