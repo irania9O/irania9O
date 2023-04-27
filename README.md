@@ -135,5 +135,13 @@ class Me(programmers):
   <a href="https://t.me/irania9O">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://instagram.com/irania9O">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:wwwwwq37@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
+  </a>
+    
+    
 </div>
 
