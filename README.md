@@ -1,7 +1,5 @@
-
-<br/>
-<h3 align="center">ℹ️ About Me</h3>
-<br/>
+# Hey there, I'm Ali 👋 👩🏽‍💻
+<br>
 
 ```python
 class Me(programmers):
@@ -14,6 +12,10 @@ class Me(programmers):
     def is_student(self):
         return True
 ```
+
+# Tech Stack 💻
+> Tools, languages, and other things that I like to work with.
+<br>
 
 <div align="center">
     <table>
@@ -116,25 +118,13 @@ class Me(programmers):
     </table>
 </div>
 
-<div align="center">
-   <br/>
-   <h3>📈 Numbers</h3>
-   <br/>
-   <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=irania9O&count_private=false&include_all_commits=true&show_icons=true&hide_border=true&bg_color=white&text_color=black&title_color=blue&icon_color=blue"
-      alt="irania9O"
-      />
-      <br/>
-   <img
-      src="http://github-readme-streak-stats.herokuapp.com?user=irania9O&theme=light&hide_border=true&background=white&ring=50A6FF&fire=FF9022&currStreakLabel=black"
-      />
-      <br/>
-   <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=irania9O&langs_count=6&hide=javascript,css,scss,less,html,ruby&layout=compact&hide_border=true&bg_color=white&text_color=black&title_color=blue&icon_color=blue&card_width=445"
-      />
+# GitHub Stats 📊 
+![](https://github-readme-stats.vercel.app/api?username=irania9O&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=irania9O&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irania9O&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,css,scss,less,html,ruby,cmake,c,swift,kotlin&langs_count=4)
 
-</div>
+
+
 <br/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
