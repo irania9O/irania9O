@@ -123,19 +123,17 @@ class Me(programmers):
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irania9O&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irania9O&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,css,scss,less,html,ruby,cmake,c,swift,kotlin&langs_count=4)
 
+## Activity Graph
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=irania9O&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</br>
 
-
-<br/>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
+# Connect with me 
+<div id="badges">
   <a href="https://www.linkedin.com/in/salikamali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
   <a href="https://t.me/irania9O">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
 </div>
 
